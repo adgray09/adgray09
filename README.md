@@ -1,4 +1,13 @@
-### Hi there 👋
+### ✨adgray09✨
+
+<p>Hi, my name is Alex Gray! I'm originally from Louisville, Kentucky now living in San Francisco pursuing my dreams of becoming a Software Engineer! I've been coding for a little over a year now and am currently a senior at Makeschool looking to recieve a Bachelors degree in Applied Computer Science in the summer of 2021</p>
+
+- 🔭 My interests include: video games, reading, programming, going on nature walks
+- 👯 Reach out to me if you're interested in remote education or exploring how to innovation the education system!
+-  📫 How to reach me: <a href="[https://www.linkedin.com/in/alexander-gray-42b439193/](https://www.linkedin.com/in/alexander-gray-42b439193/)"> Linkedin</a> or <a> adgray29@gmail.com</a>
+- ⚡ Fun fact: I played Saxophone all throughout middle and high school
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adgray09&theme=merko)
 
 <!--
 **adgray09/adgray09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
