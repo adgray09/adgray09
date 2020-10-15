@@ -4,7 +4,7 @@
 
 - 🔭 My interests include: video games, reading, programming, going on nature walks, being lazy with my cat
 - 👯 Reach out to me if you're interested in remote education or exploring how to innovate the education system!
--  📫 How to reach me: <a href="[https://www.linkedin.com/in/alexander-gray-42b439193/](https://www.linkedin.com/in/alexander-gray-42b439193/)"> Linkedin</a> or <a> adgray29@gmail.com</a>
+-  📫 How to reach me: <a href="https://www.linkedin.com/in/alexander-gray-42b439193"> Linkedin</a> or <a> adgray29@gmail.com</a>
 - ⚡ Fun fact: I played Saxophone all throughout middle and high school
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adgray09&theme=merko)
