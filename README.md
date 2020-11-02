@@ -1,6 +1,6 @@
 ### ✨adgray09✨
 
-<p>Hi, my name is Alex Gray! I'm originally from Louisville, Kentucky now living in San Francisco pursuing my dreams of becoming a Software Engineer! I've been coding for a little over a year now and am currently a senior at Makeschool looking to recieve a Bachelors degree in Applied Computer Science in the summer of 2021</p>
+<p>Hi, my name is Alex Gray! I'm originally from Louisville, Kentucky now living in San Francisco pursuing my dreams of becoming a Software Engineer! I've been coding for a little over a year now and am currently a senior at Makeschool looking to receive a Bachelors degree in Applied Computer Science in the summer of 2021</p>
 
 - 🔭 My interests include: video games, reading, programming, going on nature walks, being lazy with my cat
 - 👯 Reach out to me if you're interested in remote education or exploring how to innovate the education system!
