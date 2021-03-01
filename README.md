@@ -1,8 +1,7 @@
 <link href="styles.css" rel="stylesheet"></link>
 <img src="./images/Banner.png"><img>
 
-<p>
-    Hi, my name is Alex Gray and I'm originally from Louisville, Kentucky now living in San Francisco pursuing my dreams of becoming a Software Engineer! I'm currently a senior at Makeschool looking to receive a Bachelors degree in Applied Computer Science in the summer of 2021
+<p> I'm originally from Louisville, Kentucky now living in San Francisco pursuing my dream of becoming a Software Engineer! I'm currently a senior at Makeschool looking to receive a Bachelors degree in Applied Computer Science in the summer of 2021
 </p>
 
 
