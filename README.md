@@ -1,7 +1,7 @@
 <link href="styles.css" rel="stylesheet"></link>
 <img src="./images/Banner.png"><img>
 
-<p> I'm originally from Louisville, Kentucky now living in San Francisco pursuing my dream of becoming a Software Engineer! I'm currently a senior at Makeschool looking to receive a Bachelors degree in Applied Computer Science in the summer of 2021
+<p> Hi, my name is Alex! I recently graduated from Dominican University with a B.S. in Applied Computer Science and had the pleasure to live in the heart of Silicon Valley. I'm currently working as a Software Engineer at an amazing startup company Forecastr. I have experience creating projects using a variety of technologies but am most proficient in using Javascript and Python. 
 </p>
 
 
