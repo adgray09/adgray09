@@ -20,5 +20,3 @@
 
 ![](https://komarev.com/ghpvc/?username=adgray09)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adgray09&theme=merko)
-
