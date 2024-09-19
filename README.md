@@ -1,7 +1,7 @@
 <link href="styles.css" rel="stylesheet"></link>
 <img src="./images/Banner.png"><img>
 
-<p> Hi, my name is Alex! I recently graduated from Dominican University with a B.S. in Applied Computer Science and had the pleasure to live in the heart of Silicon Valley. I'm currently working as a Software Engineer at an amazing startup company Forecastr. I have experience creating projects using a variety of technologies but am most proficient in using Javascript and Python. 
+<p> Hey, I’m Alex! I graduated from Dominican University with a B.S. in Applied Computer Science and had the chance to live in Silicon Valley for a while. Now, I’m a Software Engineer at a cool startup called Forecastr. I’ve worked on a variety of projects, from building apps with Next.js to helping develop a complex calculations engine. While I’m comfortable with a lot of different technologies, I’m most at home with JavaScript and Python.
 </p>
 
 
